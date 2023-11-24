@@ -1,0 +1,48 @@
+{
+    "jdbcconnection": [
+        {
+            "name": "OAuth",
+            "enabled": "true",
+            "properties": {
+                "property": [
+                    {
+                        "key": "maximumPoolSize",
+                        "integerValue": "15"
+                    },
+                    {
+                        "key": "minimumPoolSize",
+                        "integerValue": "3"
+                    }
+                ]
+            },
+            "extension": {
+                "driverClass": "com.l7tech.jdbc.mysql.MySQLDriver",
+                "jdbcUrl": "jdbc:mysql:\/\/l7gw-db-restmansolutionkit-3307:3307\/ssg",
+                "connectionProperties": {
+                    "property": [
+                        {
+                            "key": "EnableCancelTimeout",
+                            "stringValue": {
+                                "value": "true"
+                            }
+                        },
+                        {
+                            "key": "password",
+                            "stringValue": {
+                                "value": "$L7C2$1,WopPyShz7YRGYtoac6BdbBdohSj+JwHjMdC\/WYbZRUo=$2xelE3bwBhSlVwlSwBPZTDPxCzRSfaobQ2+JAnNyCDNTVjIaXcDnFWRBSwPG84\/PkZZH8bNKxcXkiUAhNuCb8g==",
+                                "bundleKey": "$L7C2$9fa1f,up6SqjUGtmEOVHzFvo7VkeqDKohthfe5A2oXhFlS17g=$RjfobBbnf1IlHdAZCmugmefhrwEULSNROPGAMB0OagdUIjQdEVxpeBn\/\/+v0logsjeyronDoQDjyXKUxYRbnupH4IxXVe0J3h\/vqlU\/0bVSKYoHBQ2oaSfayTnZbllMR"
+                            }
+                        },
+                        {
+                            "key": "user",
+                            "stringValue": {
+                                "value": "root"
+                            }
+                        }
+                    ]
+                }
+            },
+            "id": "3a4f74d510421f7d954ddf6477c8e9f1"
+        }
+    ]
+}
