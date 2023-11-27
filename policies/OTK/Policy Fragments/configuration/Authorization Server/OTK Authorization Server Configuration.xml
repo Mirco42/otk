@@ -155,7 +155,7 @@
                     </L7p:entry>
                 </L7p:Properties>
             </L7p:AssertionComment>
-            <L7p:Base64Expression stringValue="MzQ3NTQ5ZTVjOTI3NDFlZWE3ZTA4ZjExMjFmMDU0YWQ="/>
+            <L7p:Base64Expression stringValue="YWViMzRlYTYxZDhiNDQ5M2E3ODk0MzgwMDY0YTcyMTg="/>
             <L7p:VariableToSet stringValue="otk_session_secret"/>
         </L7p:SetVariable>
         <L7p:SetVariable>
@@ -171,7 +171,7 @@
                     </L7p:entry>
                 </L7p:Properties>
             </L7p:AssertionComment>
-            <L7p:Base64Expression stringValue="MzQ3NTQ5ZTVjOTI3NDFlZWE3ZTA4ZjExMjFmMDU0YWQ="/>
+            <L7p:Base64Expression stringValue="YWViMzRlYTYxZDhiNDQ5M2E3ODk0MzgwMDY0YTcyMTg="/>
             <L7p:VariableToSet stringValue="otk_session_secret_encryption"/>
         </L7p:SetVariable>
         <wsp:OneOrMore wsp:Usage="Required">
