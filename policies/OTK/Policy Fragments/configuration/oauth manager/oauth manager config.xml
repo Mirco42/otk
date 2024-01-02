@@ -59,7 +59,7 @@
                     </L7p:entry>
                 </L7p:Properties>
             </L7p:AssertionComment>
-            <L7p:Base64Expression stringValue="M2I5Y2E2NWMtNDU5My00OTUwLThmYmQtOGVkYzkxYTQxN2Y0"/>
+            <L7p:Base64Expression stringValue="NzNlNDQ3YzAtY2ZjNi00YTVkLTljMDktNzc5MGY2MjA0ZWVk"/>
             <L7p:VariableToSet stringValue="cookieKey"/>
         </L7p:SetVariable>
         <L7p:SetVariable>

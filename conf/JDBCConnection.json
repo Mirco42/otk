@@ -17,7 +17,7 @@
             },
             "extension": {
                 "driverClass": "com.l7tech.jdbc.mysql.MySQLDriver",
-                "jdbcUrl": "jdbc:mysql:\/\/l7gw-db-restmansolutionkit-3308:3308\/ssg",
+                "jdbcUrl": "jdbc:mysql:\/\/l7gw-db-restmansolutionkit-3307:3307\/ssg",
                 "connectionProperties": {
                     "property": [
                         {
@@ -29,8 +29,8 @@
                         {
                             "key": "password",
                             "stringValue": {
-                                "value": "$L7C2$1,AWDuxCeBiZBbcm6FCCcdddLO85vqqapy20u\/38IDba8=$lpfTAYnDphCa6TTAQSySv2v+cvqdA2+lEM3nCu0nnBwxDk8BAbmJ9IhUuZUu4oGSrxsb1ZbWa9My8l+H12q5Og==",
-                                "bundleKey": "$L7C2$9fa1f,cPyHdJirN3OnMDBJL98S2DBqU0Hksd0hCBPrq11QpVs=$TBIt7+k35wAuykSKxcaPS6uF7ypJmXQCfqoDj+LFfU6nfmzMk8L7tR0UQ1yF35K54qBWxGIOQKUYvWME8vEdzVqf8YKvkBc+yT56vET4leYbw2qOo+Rw5SarFPPWbNib"
+                                "value": "$L7C2$1,GTRw29QiwMl27cM8JUq1EJ6IKuMYlB\/IPvCzrgpY0Fk=$YzdRSHS7mEm7XUytvoiYSzTD8kF6ZCDdnaGSlN\/1RGh\/eGwqoARCWoTRg70xgEc6f3+j4zqe4ivMJc7hX4JT5Q==",
+                                "bundleKey": "$L7C2$9fa1f,SK9VkwAb7Y14oDfOBIGXJuKhR9l+E7VqyU6FOLlx+jY=$h6RKsyztntFtE38FywnXk3c7\/Z0rvoHfmhNXuZb\/qJgndYdTVOaPTp5fnXB+HxkAMiaFobvHhmb70PZoSoQBOxGILcTUtByJnMNMHtXQpk8GRidlkOWktKr5O2\/\/x6VF"
                             }
                         },
                         {
@@ -42,7 +42,7 @@
                     ]
                 }
             },
-            "id": "ca351a9bfc079ac490617f9e22fb1ca5"
+            "id": "3a4f74d510421f7d954ddf6477c8e9f1"
         }
     ]
 }
